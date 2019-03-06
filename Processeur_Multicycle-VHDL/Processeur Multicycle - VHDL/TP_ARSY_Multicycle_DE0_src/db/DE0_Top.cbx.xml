@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="DE0_Top">
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|arm:arm_1|DataPath:DataPath1|RAM64x32:Memoire|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_7nt1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|arm:arm_1|DataPath:DataPath1|register_bank:BancReg|altsyncram:Banc_rtl_0" CBX_FILE_NAME="altsyncram_31m1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_TOP|arm:arm_1|DataPath:DataPath1|register_bank:BancReg|altsyncram:Banc_rtl_1" CBX_FILE_NAME="altsyncram_31m1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
